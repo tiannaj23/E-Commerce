@@ -42,7 +42,8 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 ## Walkthrough Video
 
-- https://drive.google.com/file/d/1qrJwWm4a0RUBUVPVmS99Qct7phVyUQV7/view
+- https://drive.google.com/file/d/16BgRGAJ1AxYIbW0dKt_IXYQ7BJbiLAdO/view
+
 
 
 
