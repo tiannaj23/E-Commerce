@@ -42,11 +42,8 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 ## Walkthrough Video
 
-- GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
-- GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core:
-- POST, PUT, and DELETE routes for categories being tested in Insomnia Core:
-- POST, PUT, and DELETE routes for products being tested in Insomnia Core:
-- POST, PUT, and DELETE routes for tags being tested in Insomnia Core:
+- https://drive.google.com/file/d/1qrJwWm4a0RUBUVPVmS99Qct7phVyUQV7/view
+
 
 
 
