@@ -41,3 +41,14 @@ None.
 If you have any questions about the repo, open an issue or contact me directly at tiannaj23@gmail.com. You can find more of my work at [https://github.com/tiannaj23](https://github.com/https://github.com/tiannaj23/).
 
 ## Walkthrough Video
+
+- GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
+- GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core:
+- POST, PUT, and DELETE routes for categories being tested in Insomnia Core:
+- POST, PUT, and DELETE routes for products being tested in Insomnia Core:
+- POST, PUT, and DELETE routes for tags being tested in Insomnia Core:
+
+
+
+
+
